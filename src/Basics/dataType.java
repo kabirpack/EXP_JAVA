@@ -1,3 +1,5 @@
+package Basics;
+
 public class dataType {
 
     // basic data types
@@ -8,6 +10,4 @@ public class dataType {
     private char myLetter = 'D';
     private boolean myBool = true;
     private String myText = "Hello";
-
-
 }
