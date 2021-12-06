@@ -1,4 +1,4 @@
-package innerclass;
+package innerclass.local_anonymous;
 
 public class Button {
     private String title;
